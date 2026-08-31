@@ -23,7 +23,7 @@ This project was developed in **Badamanavarthekaval, Karnataka, India**.
 - Relay Module
 
 ## Project Image
-![Rain Alarm Hardware Setup](image1)
+![Rain Alarm Hardware Setup]https://github.com/poorvikair/demo-project-/blob/main/iot%20project.jpeg
 
 The image above shows the rain alarm prototype with:
 - Rain sensor module (top left)
